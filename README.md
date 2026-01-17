@@ -12,3 +12,6 @@ The Dragon names were tougher, as they have a complex construction. One noun is 
 
 ## Reflection
 The most difficult item for me was the creation of the dragon names. There were a lot of minute details I wanted to capture that I felt I couldn't do justice to. Especially the layout of the nouns vs adverbs vs adjectives. However, in all, I found it to be an enjoyable experience and a tool I can use in the future. I would also refine the elvish names to be generated a little more pleasently had I the time.
+
+## Example
+<img width="1278" height="663" alt="image" src="https://github.com/user-attachments/assets/e1b7e842-1545-4580-b19a-ba6415392a41" />
